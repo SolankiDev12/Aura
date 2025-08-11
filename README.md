@@ -75,7 +75,7 @@ Ready to discover what makes Aura special? Your adventure begins now! 🎉
 *Made with 💜 by developers who believe in the power of community*
 
 ## 📱 Download Now
-[iOS App Store](soon) | [Google Play Store](soon)
+[iOS App](soon) | [Android](soon)
 
 ---
 
