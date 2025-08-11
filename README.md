@@ -58,9 +58,9 @@ We've crafted Aura using the most robust and exciting technologies:
 
 Ready to join the revolution? Here's how to dive in:
 
-1. **Download** Aura from your app store
+1. **Download** Aura from given links
 2. **Create** your account in seconds
-3. **Enter** that secret code you've been waiting to use
+3. **Enter** that secret code you've been waiting to use or create group 
 4. **Explore** your new community
 
 ## 🌟 Join the Aura Family
@@ -73,7 +73,7 @@ Ready to discover what makes Aura special? Your adventure begins now! 🎉
 
 *Made with 💜 by developers who believe in the power of community*
 
-## 📱 Download Now
+## 📱 Download Now [soon]
 [iOS App](soon) | [Android](soon)
 
 ---
