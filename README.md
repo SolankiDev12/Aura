@@ -62,7 +62,6 @@ Ready to join the revolution? Here's how to dive in:
 2. **Create** your account in seconds
 3. **Enter** that secret code you've been waiting to use
 4. **Explore** your new community
-5. **Compete** and climb those leaderboards!
 
 ## 🌟 Join the Aura Family
 
